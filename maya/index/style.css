@@ -1,0 +1,41 @@
+body{
+  background-image: url(..//123.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 72%;
+
+}
+a{
+    font-family: lucida 'Courier New', Courier, monospace;
+}
+a:hover{
+    color: rgb(255, 136, 0);
+}
+.main-header .showcase{
+    padding-top: 120px;
+    padding-bottom: 222px;
+    padding-right: 100px;
+    
+  }
+  .fs{
+    height: 400px;
+  }
+
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+.page-footer{
+  padding-top: 100px;
+}
+#d{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+    
